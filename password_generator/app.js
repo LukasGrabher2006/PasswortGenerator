@@ -10,3 +10,4 @@ function generateRandomPassword(length = 10) {
   return password;
 }
 
+module.exports = generateRandomPassword;
